@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+instance/
+temp_downloads/
+*.db
+
+# Block the virtual environment
+ng/
+
+# Block all downloaded videos/media caches entirely
+downloads/
+tempfile/
+*.mp4
+*.webm
+*.mp3
