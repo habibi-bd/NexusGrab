@@ -35,3 +35,5 @@ source ng/bin/activate # Linux/macOS
 # Install dependencies and run
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+<img width="1280" height="604" alt="NexusGrab" src="https://github.com/user-attachments/assets/8b384191-3ee6-4ed6-aff1-ae4a8a1cd5e2" />
+<img width="1280" height="604" alt="NexusGrab" src="https://github.com/user-attachments/assets/cf7d4c9c-2e46-4c0c-b390-873e7392c1d8" />
